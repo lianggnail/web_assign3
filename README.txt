@@ -1,5 +1,5 @@
 1. Your names, student numbers, set and email addresses
-	• 
+	• Boning Yang (A01001389) setE sylvartore@gmail.com
   	• Liang Wu (A01029127) setE 94liangwu@gmail.com
 
 2. What you have completed
