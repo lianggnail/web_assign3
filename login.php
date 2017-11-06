@@ -1,3 +1,5 @@
+<?php session_start() ?>
+
 <?php include("include/header.php"); ?>
 
         <h1>Please login to enjoy our math games.</h1>
