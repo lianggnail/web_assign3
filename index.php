@@ -1,4 +1,10 @@
 <?php session_start() ?>
+<?php 
+    if ($_SESSION['valid'] != true) {
+        header("Location:login.php");
+        die();
+    }
+?>
 
 <?php include("include/header.php"); ?>
 
